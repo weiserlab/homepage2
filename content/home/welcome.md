@@ -14,6 +14,6 @@ design:
 ---
 <br>
 
-Curiosity driven research group exploring Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**  hosted at the wonderful National University of Singapore.
+Curiosity driven research group exploring Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**  hosted at the National University of Singapore.
 
 <br>
