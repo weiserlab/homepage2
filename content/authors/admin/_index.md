@@ -1,6 +1,7 @@
 ---
 title: Ambuj Varshney
 role: "Assistant Professor "
+avatar_filename: ambuj_mugshot.webp
 bio: ""
 interests: []
 social: []
