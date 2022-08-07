@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: award_for_network_researcher_m0008a.jpeg
+    image: ""
 ---
 <br>
 
