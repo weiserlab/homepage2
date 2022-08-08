@@ -31,4 +31,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-Ambuj Varshney is an Assistant Professor at the Department of Computer Sciences@School of Computing of the National University of Singapore.  He did his Postdoctoral studies at Department of Electrical Engineering and Computer Sciences (EECS) of the University of California, Berkeley.
+Prof. Dr. Ambuj Varshney is an Assistant Professor at the Department of Computer Sciences@School of Computing of the National University of Singapore.  He did his Postdoctoral studies at Department of Electrical Engineering and Computer Sciences (EECS) of the University of California, Berkeley.
