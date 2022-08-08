@@ -15,7 +15,13 @@ organizations:
   - name: National University of Singapore
     url: https://www.comp.nus.edu.sg/cs/people/ambuj/
 education:
-  courses: []
+  courses:
+    - course: PhD (Computer Science)
+      institution: Uppsala University, Sweden
+      year: 2018
+    - course: BTech(ICT)
+      institution: DA-IICT, India
+      year: 2011
 email: ""
 superuser: true
 user_groups:
