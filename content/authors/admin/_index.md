@@ -31,6 +31,6 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-Prof. Dr. Ambuj Varshney is an Assistant Professor at the Department of Computer Science@School of Computing of the National University of Singapore.  He did his Postdoctoral studies at Department of Electrical Engineering and Computer Sciences (EECS) of the University of California, Berkeley.  
+Prof. Dr. Ambuj Varshney is an Assistant Professor at the Department of Computer Science@School of Computing of the National University of Singapore.  He did his Postdoctoral studies at Department of Electrical Engineering and Computer Sciences (EECS) of the University of California, Berkeley.  He obtained a doctoral degree (PhD) in Computer Science from Uppsala University, Sweden. 
 
 His research interests over the past decade have been focused on embedded systems and mobile computing. Over the past several years, he has designed embedded systems that tackle the energy asymmetry between different components of the embedded platforms. His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg (with an endowment of 300,000 USD hosted at UC Berkeley).
