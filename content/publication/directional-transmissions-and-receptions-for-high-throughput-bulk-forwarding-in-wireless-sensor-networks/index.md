@@ -9,7 +9,8 @@ authors:
   - Mats Carlsson
   - Thiemo Voigt
 doi: https://doi.org/10.1145/2809695.2809720
-publication: " Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems"
+publication: " Proceedings of the Thirteenth ACM Conference on Embedded
+  Networked Sensor Systems"
 publication_short: In ACM SenSys 2015
 abstract: >+
   We present DPT: a wireless sensor network protocol for bulk traffic that
