@@ -10,7 +10,7 @@ authors:
   - Thiemo Voigt
 doi: https://doi.org/10.1145/2809695.2809720
 publication: " Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems"
-publication_short: ACM SenSys 2015
+publication_short: In ACM SenSys 2015
 abstract: >+
   We present DPT: a wireless sensor network protocol for bulk traffic that
   uniquely leverages electronically switchable directional (ESD) antennas. Bulk
@@ -39,7 +39,7 @@ abstract: >+
 draft: false
 featured: false
 image:
-  filename: esd_antenna.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-11-01T06:34:39.374Z
