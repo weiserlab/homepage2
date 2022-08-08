@@ -16,7 +16,7 @@ organizations:
     url: https://www.comp.nus.edu.sg/cs/people/ambuj/
 education:
   courses:
-    - course: "Postdoctoral "
+    - course: Postdoctoral Scholar
       institution: "University of California, Berkeley "
       year: 2022
     - course: PhD (Computer Science)
