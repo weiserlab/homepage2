@@ -1,0 +1,46 @@
+---
+title: Directional Transmissions and Receptions for High-throughput Bulk
+  Forwarding in Wireless Sensor Networks
+publication_types:
+  - "1"
+authors:
+  - Ambuj Varshney
+  - Luca Mottola
+  - Mats Carlsson
+  - Thiemo Voigt
+doi: https://doi.org/10.1145/2809695.2809720
+publication: " Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems"
+publication_short: ACM SenSys 2015
+abstract: >+
+  We present DPT: a wireless sensor network protocol for bulk traffic that
+  uniquely leverages electronically switchable directional (ESD) antennas. Bulk
+  traffic is found in several scenarios and supporting protocols based on
+  standard antenna technology abound. ESD antennas may improve performance in
+  these scenarios; for example, by reducing channel contention as the antenna
+  can steer the radiated energy only towards the intended receivers, and by
+  extending the communication range at no additional energy cost. The
+  corresponding protocol support, however, is largely missing. DPT addresses
+  precisely this issue. First, while the network is quiescent, we collect link
+  metrics across all possible antenna configurations. We use this information to
+  formulate a constraint satisfaction problem (CSP) that allows us to find two
+  multi-hop disjoint paths connecting source and sink, along with the
+  corresponding antenna configurations. Domain-specific heuristics we conceive
+  ameliorate the processing demands in solving the CSP, improving scalability.
+  Second, the routing configuration we obtain is injected back into the network.
+  During the actual bulk transfer, the source funnels data through the two paths
+  by quickly alternating between them. Packet forwarding occurs
+  deterministically at every hop. This allows the source to implicitly "clock"
+  the entire pipeline, sparing the need of proactively synchronizing the
+  transmissions across the two paths. Our results, obtained in a real testbed
+  using 802.15.4-compliant radios and custom ESD antennas we built, indicate
+  that DPT approaches the maximum throughput supported by the link layer,
+  peaking at 214 kbit/s in the settings we test.
+
+draft: false
+featured: false
+image:
+  filename: esd_antenna.jpeg
+  focal_point: Smart
+  preview_only: false
+date: 2022-08-08T06:31:41.810Z
+---
