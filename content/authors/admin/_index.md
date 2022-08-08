@@ -17,8 +17,7 @@ organizations:
 education:
   courses:
     - course: Postdoctoral Scholar
-      institution: <a href = "https://www.berkeley.edu/"> University of California,
-        Berkeley </a>
+      institution: University of California, Berkeley
       year: 2022
     - course: PhD (Computer Science)
       institution: Uppsala University, Sweden
