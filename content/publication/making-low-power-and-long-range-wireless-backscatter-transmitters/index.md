@@ -6,6 +6,7 @@ authors:
   - Ambuj Varshney
 author_notes:
   - NUS
+doi: https://doi.org/10.1145/3551670.3551672
 publication: "ACM GetMobile: Mobile Computing and Communications (Maker Edition)"
 publication_short: ACM GetMobile
 abstract: The past decade has seen significant increases in the deployment of
@@ -25,7 +26,7 @@ featured: true
 tags:
   - Backscatter;Transmitter
 image:
-  filename: featured
+  filename: lorea_arch.png
   focal_point: Smart
   preview_only: false
 date: 2022-08-08T05:21:44.371Z
