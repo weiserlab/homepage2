@@ -3,7 +3,7 @@ widget: hero
 widget_id: weisertitle
 headless: true
 weight: 10
-title: WEISER Research Group
+title: WEISER Group
 hero_media: welcome.jpg
 design:
   columns: "1"
