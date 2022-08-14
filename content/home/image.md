@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: ""
+    image: award_for_network_researcher_m0008a.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
