@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: blank
 widget_id: weisertitle
 headless: true
 weight: 10
