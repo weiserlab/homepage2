@@ -20,4 +20,4 @@ With hundreds of millions of Internet of Things devices deployed worldwide and t
 
 We strive to build systems and prototypes that address *real-world* challenges. Our work is highly interdisciplinary, and we enjoy collaborations with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines.<br>
 
-The group owes its genesis to  projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), and supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). <br>
+The group owes its genesis to  projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), and supported by ABB (through 2019 ABB Research Award), [Swedish Innovation Agency (VINNOVA)](https://www.vinnova.se/en/),  and [Swedish Research Council (Vetenskapradet)](https://www.vr.se/). <br>
