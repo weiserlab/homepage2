@@ -19,3 +19,5 @@ design:
 With hundreds of millions of Internet of Things devices deployed worldwide and their number projected to reach a trillion soon,  Internet of Things has become a crucial part of our lives and economy. We cover topics related to the Internet of Things in our research and teaching activities. They encompass a spectrum of topics; Including projects that tackle issues that are fundamental to the device, to efforts that take a broader system and network perspective for deployment in the real world. <br> 
 
 We strive to build systems and prototypes that address *real-world* challenges. Our work is highly interdisciplinary, and we enjoy collaborating and working with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines.<br>
+
+The group has its genesis at Uppsala University, Sweden and University of California, Berkeley.  <br>
