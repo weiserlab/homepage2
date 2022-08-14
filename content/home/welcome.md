@@ -17,4 +17,4 @@ design:
 
 With hundreds of millions of Internet of Things devices deployed worldwide and their number projected to reach a trillion soon, the Internet of Things has become a crucial part of our lives and economy. We cover a wide range of topics in our research and teaching to enable a vision of the ubiquitous Internet of Things. <br> 
 
-We strive to build real-world systems and prototypes that address real-world issues. Our work is highly interdisciplinary, and we enjoy collaborating and working with engineers, artists, scientists, government members and industry members from various domains and disciplines.<br>
+We strive to build systems and prototypes that address *real-world* issues. Our work is highly interdisciplinary, and we enjoy collaborating and working with engineers, artists, scientists, government members and industry members from various domains and disciplines.<br>
