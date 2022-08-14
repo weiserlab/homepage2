@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     image: ""
-    color: "#bab3b1"
+    color: "#e3e3e2"
 ---
 <br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. We are hosted at the [National University of Singapore](https://www.nus.edu.sg/). <br>
 
