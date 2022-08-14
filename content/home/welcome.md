@@ -12,6 +12,6 @@ design:
   background:
     image: ""
 ---
-<br> We are a curiosity driven group of engineers and researchers who are  interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. We are currently hosted at the National University of Singapore. <br>
+<br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. We are hosted at the National University of Singapore. <br>
 
-With hundreds of millions of Internet of Things (IoT) devices that are deployed worldwide, and the number of IoT devices projected to reach a trillion in the near future; IoT has become a crucial part of our lives.
+With hundreds of millions of Internet of Things (IoT) devices  deployed worldwide, and their number projected to reach a trillion in the near future; IoT has become a crucial part of our lives and economy.  Our research and teaching tackles issues right at the fundamental level (devices) of IoT ecosystem, to  broader system's and network issues. <br>
