@@ -14,7 +14,7 @@ design:
     color: "#e3e3e2"
     text_color_light: false
 ---
-<br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
+<br> We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
 
 ## Vision
 
@@ -22,6 +22,10 @@ With hundreds of millions of Internet of Things (IoT) devices deployed worldwide
 
 We build real systems and prototypes. Commonly, this involves working at intersection of computer science, electronics and communication.  As such, our work is highly interdisciplinary, and we enjoy collaborations with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines. We commonly publish our research findings at flagship venues of computer systems (Sensys, Mobicom, Mobisys, Hotnets, Ipsn, and GetMobile) <br>
 
-The group has its genesis to  research projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), that were supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from [National University of Singapore](http://nus.edu.sg). <br>
+## Open-source
 
 Society invests significant resources and place trust on public institutions. Consequently, we have an enormous responsibility to contribute back to the society. Consequently, we strive to place most (if not all) of our research findings and artefacts in public under permissive open source licenses. <br>
+
+## Funding
+
+The group has its genesis to  research projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), that were supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from [National University of Singapore](http://nus.edu.sg). <br>
