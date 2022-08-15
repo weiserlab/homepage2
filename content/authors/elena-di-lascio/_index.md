@@ -5,4 +5,6 @@ role: Master thesis (2015-2016) -> PhD student (USI, Switzerland) (Completed) ->
 avatar_filename: avatar.jpg
 social: []
 superuser: false
+user_groups:
+  - Alumni
 ---
