@@ -14,7 +14,7 @@ design:
     color: "#e3e3e2"
     text_color_light: false
 ---
-<br> We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
+<br> We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
 
 ## Vision
 
