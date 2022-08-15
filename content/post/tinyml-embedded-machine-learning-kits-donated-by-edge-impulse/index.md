@@ -9,8 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[Edge Impulse](http://edgeimpulse.com) has generously donated 10 Arduino-based TinyML kits to our research group for use in research and teaching.
-
-
+[Edge Impulse](http://edgeimpulse.com) has generously donated 10 Arduino-based TinyML kits to our research group to support our  research and teaching activities.
 
 ![](tinyml_kit.jpg "Arduino based embedded machine learning kits (TinyML)")
