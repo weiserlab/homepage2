@@ -16,7 +16,7 @@ design:
 ---
 <br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
 
-With hundreds of millions of Internet of Things devices deployed worldwide and their number projected to reach a trillion soon,  Internet of Things has become a crucial part of our lives and economy. We cover broad scope of topics related to the Internet of Things in our research and teaching activities. They encompass a spectrum of topics; Including projects that tackle issues that are fundamental to the device, to efforts that take a broader system and network perspective for deployment in the real world. <br> 
+With hundreds of millions of Internet of Things (IoT) devices deployed worldwide and their number projected to reach a trillion soon,  IoT has become a crucial part of our lives and economy. We cover broad scope of topics related to the IoT in our research and teaching activities. They encompass a spectrum of topics; Including projects that tackle issues that are fundamental to the  IoT device, to efforts that take a broader system and network perspective for deployment of IoT in the real world. <br> 
 
 We build real systems and prototypes. As such, our work is highly interdisciplinary, and we enjoy collaborations with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines. We publish our research findings at flagship venues of computer systems (Sensys, Mobicom, Mobisys, Hotnets, Ipsn, and GetMobile) <br>
 
