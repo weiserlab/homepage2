@@ -22,4 +22,4 @@ We build real systems and prototypes. Commonly, this involves working at interse
 
 The group has its genesis to  research projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), that were supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from [National University of Singapore](http://nus.edu.sg). <br>
 
-We strive to place most (if not all) of our research findings in public domain under permissive open licenses, and open-source the research artefacts for projects conducted within the group.  <br>
+We strive to place most (if not all) of our research findings and artefacts in public domain under permissive open source licenses.  <br>
