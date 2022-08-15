@@ -1,6 +1,6 @@
 ---
 title: Bubi
-role: Group Inspector
+role: Group cat
 avatar_filename: avatar.jpg
 social: []
 superuser: false
