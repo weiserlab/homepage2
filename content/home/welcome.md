@@ -22,4 +22,4 @@ We build real systems and prototypes. Commonly, this involves working at interse
 
 The group has its genesis to  research projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), that were supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from [National University of Singapore](http://nus.edu.sg). <br>
 
-Society invests an enormous resource and place trust on public institutions. Being part of a public institution, we have an enormous responsibility to contribute back to the society. Consequently, we strive to place most (if not all) of our research findings and artefacts in public under permissive open source licenses. <br>
+Society invests an enormous resource and trust on public institutions. Consequently, we have an enormous responsibility to contribute back to the society. Consequently, we strive to place most (if not all) of our research findings and artefacts in public under permissive open source licenses. <br>
