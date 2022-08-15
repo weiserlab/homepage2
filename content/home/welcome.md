@@ -14,10 +14,10 @@ design:
     color: "#e3e3e2"
     text_color_light: false
 ---
-<br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. We are hosted at the [National University of Singapore](https://www.nus.edu.sg/). <br> 
+<br> We are a curiosity driven group of engineers and researchers interested in Wireless, Embedded Intelligence, Sensing and Emerging Technologies **(WEISER)**. <br> 
 
 With hundreds of millions of Internet of Things devices deployed worldwide and their number projected to reach a trillion soon,  Internet of Things has become a crucial part of our lives and economy. We cover broad scope of topics related to the Internet of Things in our research and teaching activities. They encompass a spectrum of topics; Including projects that tackle issues that are fundamental to the device, to efforts that take a broader system and network perspective for deployment in the real world. <br> 
 
-We build real systems and prototypes. As such, our work is highly interdisciplinary, and we enjoy collaborations with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines. We publish at flagship venues of computer systems (Sensys, Mobicom, Mobisys, Hotnets, IPSN, and GetMobile) <br>
+We build real systems and prototypes. As such, our work is highly interdisciplinary, and we enjoy collaborations with engineers, artists, scientists,  members of government and industry, and domain experts from other disciplines. We publish our research findings at flagship venues of computer systems (Sensys, Mobicom, Mobisys, Hotnets, Ipsn, and GetMobile) <br>
 
-The group owes its genesis to  projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), and supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from National University of Singapore. <br>
+The group has its genesis to  research projects at [Uppsala University, Sweden](http://uu.se) and [University of California, Berkeley](https://www.berkeley.edu/), that were supported by ABB (through 2019 ABB Research Award), Swedish Innovation Agency (VINNOVA),  and Swedish Research Council (Vetenskapradet). We are currently supported through startup-grant from [National University of Singapore](http://nus.edu.sg). <br>
